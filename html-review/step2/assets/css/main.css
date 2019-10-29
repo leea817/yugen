@@ -1,0 +1,18 @@
+body {
+	background-color: white;
+}
+
+h1 {
+	color: black;
+}
+
+.second-line {
+	color: red;
+}
+
+
+
+video {
+  /*height: 500px;*/
+  max-width: 70%;
+}

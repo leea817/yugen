@@ -1,0 +1,51 @@
+body {
+	background-color: #bdcfd1;
+	background-image: url("step1-setting.png");
+}
+
+
+
+h1 {
+	color: black;
+}
+
+.second-line {
+	color: red;
+}
+
+.title {
+
+  padding-top: 550px;
+  padding-bottom: 150px;
+	text-align: center;
+
+
+}
+
+
+.video {
+	text-align: center;
+}
+
+video {
+  /*height: 500px;*/
+  min-width: 60%;
+  padding-top: 300px;
+  padding-bottom: 300px;
+  align-content: center;
+}
+
+
+.fill {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+    padding-top: 300px;
+    padding-bottom: 3d00px;
+}
+.fill img {
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%
+}
